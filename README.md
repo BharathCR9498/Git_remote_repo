@@ -5,3 +5,4 @@ Changing in local repository
 changes in remote
 checking the fetch command
 tesring again from the local
+testing again from the remote
